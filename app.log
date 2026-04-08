@@ -1,0 +1,28 @@
+[00:53:46] [SYSTEM] Bot iniciado
+[00:53:51] [SYSTEM] Bot conectado como Valheim_Bridge#9029
+[00:58:36] [DISCORD] 💻-chat | Azzlaer: HACIENDO PRUEBA DE VIDEO PARA YOUTUBE
+[00:58:36] [RCON] say Azzlaer: HACIENDO PRUEBA DE VIDEO PARA YOUTUBE -> Sent to chat - Azzlaer: HACIENDO PRUEBA DE VIDEO PARA YOUTUBE
+[00:59:27] [DISCORD] 👑-administradores | Azzlaer: addAdmin 76561198000000000
+[00:59:39] [SYSTEM] Bot detenido
+[00:59:39] Event loop stopped before Future completed.
+[00:59:58] [SYSTEM] Bot iniciado
+[01:00:01] [SYSTEM] Bot conectado como Valheim_Bridge#9029
+[01:00:08] [DISCORD] 👑-administradores | Azzlaer: addAdmin 76561198000000000
+[01:00:31] [DISCORD] ✅-permitidos | Azzlaer: addPermitted 76561198000000000
+[01:00:36] [DISCORD] 🚫-baneados | Azzlaer: ban 76561198093711528
+[01:00:52] [SYSTEM] Bot detenido
+[01:00:52] Event loop stopped before Future completed.
+[01:01:10] [SYSTEM] Bot iniciado
+[01:01:13] [SYSTEM] Bot conectado como Valheim_Bridge#9029
+[01:01:23] [DISCORD] 👑-administradores | Azzlaer: addAdmin 76561198000000000
+[01:01:23] [RCON] addAdmin 76561198000000000 -> 76561198000000000 is admin now
+[01:01:48] [DISCORD] ✅-permitidos | Azzlaer: addPermitted 76561198000000000
+[01:01:48] [RCON] addPermitted 76561198000000000 -> 76561198000000000 added to permitted
+[01:01:56] [DISCORD] 🚫-baneados | Azzlaer: ban 76561198093711528
+[01:01:56] [RCON] ban 76561198093711528 -> Banned 76561198093711528
+[01:02:18] [DISCORD] 🚫-baneados | Azzlaer: unban 76561198093711528
+[01:02:18] [RCON] unban 76561198093711528 -> 76561198093711528 unbanned
+[01:02:55] [DISCORD] ✅-permitidos | Azzlaer: unban 76561198093711528
+[01:02:55] [RCON] unban 76561198093711528 -> 76561198093711528 unbanned
+[01:03:02] [DISCORD] ✅-permitidos | Azzlaer: unban 76561198000000000
+[01:03:02] [RCON] unban 76561198000000000 -> 76561198000000000 unbanned
